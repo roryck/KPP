@@ -4,7 +4,7 @@ The Kinetic PreProcessor: KPP
 
 .. raw:: html
 
-   <h3>An Environment for the<br/>Simuation of Chemical Kinetic Systems</h3>
+   <h3>An Environment for the<br/>Simulation of Chemical Kinetic Systems</h3>
    <p><strong>Adrian Sandu<sup>1</sup>, Rolf Sander<sup>2</sup>,
    Michael S. Long<sup>3</sup>, Haipeng Lin<sup>4</sup>,<br />
    Robert M. Yantosca<sup>4</sup>, Lucas Estrada<sup>4</sup>, Lu
